@@ -1,0 +1,13 @@
+torch==2.5.1+cu124
+pandas==2.2.3
+joblib==1.4.2
+fastapi==0.115.12
+pydantic==2.8.2
+requests==2.32.3
+Scrapy==2.12.0
+itemadapter==0.11.0
+scikit-learn==1.6.1
+zenml==0.80.0
+numpy==2.2.4
+matplotlib==3.10.1
+seaborn==0.13.2

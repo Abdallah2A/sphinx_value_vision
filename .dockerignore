@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.git
+.zen
+.venv
+data/
+src/
+model/
+.dockerignore
+run_pipeline.py
+api/
+visual_matrices/
+.gitignore
