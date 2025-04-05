@@ -1,7 +1,7 @@
 # Sphinx Value Vision
 
 <p align="center">
-  <img src="logo.png" alt="Sphinx Value Vision Logo" width="180" align="right">
+  <img src="logo.png" alt="Sphinx Value Vision Logo" width="200" align="right">
 </p>
 
 Sphinx Value Vision is a full-cycle machine learning project for predicting house prices using an Egyptian dataset. The project leverages web scraping, data cleaning, visualization, and neural network model training with PyTorch. An API is provided for real-time predictions and the entire solution is containerized using Docker.
